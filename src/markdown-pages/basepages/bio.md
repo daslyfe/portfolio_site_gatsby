@@ -7,8 +7,8 @@ featured: "frontpage"
 ---
 <div class="mb-32">
 
-<x-container>
-<main class="flex flex-col w-full">
+
+
 <h1 class="flex  w-full justify-center"> <p class="text-3xl" > Jade Rose Rowland </p> </h1>
 
 
@@ -109,8 +109,8 @@ This job consisted of repairing and assembling electronic instrument and synthes
 - Certificate in Recording Arts (2014)
 
 </div>
-</main>
-</x-container>
+
+
 
 </div>
 
