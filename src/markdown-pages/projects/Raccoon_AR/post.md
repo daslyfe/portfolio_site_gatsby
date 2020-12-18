@@ -15,7 +15,7 @@ video: "./video.mp4"
           <h2>2020-01-13</h2>
 <hr/>
 
-This is an AR project done in Lens Studio that I worked on with a team. My job was to take the assets and turn it into a snapchat filter that:
+This is an AR project done in Lens Studio that I worked on with a team. My job was to take the assets and turn them into a snapchat filter that:
 
 - implements foot tracking and attatches a pair of boots and a cute raccon
 - allows the user to change the "season" (particle system) by tapping the screen
