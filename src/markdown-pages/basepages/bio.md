@@ -5,7 +5,7 @@ description: Jade Rose, React. Web. Coding.
 type: "basepage"
 featured: "frontpage"
 ---
-<div class="mb-32">
+<div>
 
 <x-container>
 
@@ -14,7 +14,7 @@ featured: "frontpage"
 
 <h1> About Me: </h1>
 
-<div class="pl-8 pt-2">
+<div  style="padding-left: 2rem" class="">
 I love puzzles and solving problems, and coding is something I can’t help but love doing. I am mostly self taught, but have had a good amount of work experience, solid mentorship, as well as personal projects. There is still a lot that I want to learn, and I am looking for the opportunity to grow and collaborate with other coders.
 </div>
 
