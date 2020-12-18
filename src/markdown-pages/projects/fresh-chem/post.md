@@ -14,10 +14,10 @@ description: "Shopify website for a skincare brand"
           <h2>2020-09-01</h2>
 <hr/>
 
-For this project, I had to take design mockups and turn them into a responsive Shopify website for a skin care brand. 
+For this project, it was my job to take design mockups and turn them into a responsive Shopify website for a skin care brand. 
 
 - created custom Liquid plugins for user friendly page editing
-- respondive / mobile friendly ecommerce site
+- responsive / mobile friendly ecommerce site
  
 <a class="url" href="https://freshchemistry.com/">>Link to Website</a>
 
