@@ -1,0 +1,79 @@
+/*! purgecss start ignore */
+@tailwind base;
+@tailwind components;
+/*! purgecss end ignore */
+@tailwind utilities;
+
+.quick-transition {
+  @apply transition-all;
+  @apply duration-300;
+}
+.hamburger-path {
+  @apply text-secondary;
+  stroke: currentColor;
+}
+
+.hamburger-svg {
+  display: block;
+  margin: 0 auto;
+  }
+
+.hamburger-button {
+  display: block;
+  width: 50px;
+  height: 50px;
+}
+.hamburger-button:focus {
+  outline: none;
+}
+ul,
+.motion-li {
+  margin: 0;
+  padding: 0;
+}
+
+.motion-ul {
+
+ 
+
+
+}
+
+.motion-li {
+  list-style: none;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.menu-link {
+  @apply block;
+  @apply mt-0;
+  @apply text-secondary;
+  @apply no-underline;
+  @apply text-5xl;
+}
+
+.selector {
+  @apply opacity-0;
+  @apply inline-block;
+}
+
+.menu-link:hover .selector {
+  @apply opacity-100;
+  @apply quick-transition;
+}
+
+.navigation-link {
+  @apply block;
+  @apply mt-4;
+  @apply text-secondary;
+  @apply no-underline;
+  @apply quick-transition;
+}
+
+.navigation-link:hover .selector {
+  @apply opacity-100;
+  @apply quick-transition;
+}
