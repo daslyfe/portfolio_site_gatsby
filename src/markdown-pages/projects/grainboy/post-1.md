@@ -23,7 +23,7 @@ This is a web-based fun, personal project created for generating unique sounds a
 <iframe 
     src="https://grainboy.netlify.app/"
     scrolling="no"
-    class="relative h-screen w-full pb-24  "
+    class="absolute h-screen w-full pb-24  "
     
 >
 
