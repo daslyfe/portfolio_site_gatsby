@@ -17,13 +17,15 @@ This is a web-based fun, personal project created for generating unique sounds a
 - Built with React and Processing
 - scalable visuals
 - desktop and mobile friendly
+ 
+
 
 </x-container>
+
 
 <iframe 
     src="https://grainboy.netlify.app/"
     scrolling="no"
-    class="absolute h-screen w-full pb-24  "
-    
+    class=" w-full pb-24" 
+    style="height: 1000px;" 
 >
-
