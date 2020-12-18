@@ -15,6 +15,7 @@ description: "granular resynthesizer/visual synth made with React"
 This is a web-based fun, personal project created for generating unique sounds and visuals. You can interact with it below
 
 - Built with React and Processing
+- Web Audio Framework and ToneJS for the dsp
 - scalable visuals
 - desktop and mobile friendly
  
@@ -26,6 +27,8 @@ This is a web-based fun, personal project created for generating unique sounds a
 <iframe 
     src="https://grainboy.netlify.app/"
     scrolling="no"
-    class=" w-full pb-24" 
-    style="height: 1000px;" 
+    class="w-full pb-24" 
+    style="height: 100vh; margin-bottom: 80px;" 
 >
+
+<x-spacer/>
