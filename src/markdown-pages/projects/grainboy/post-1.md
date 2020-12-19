@@ -28,7 +28,7 @@ This is a web-based fun, personal project created for generating unique sounds a
     src="https://grainboy.netlify.app/"
     scrolling="no"
     class="w-full pb-24" 
-    style="height: 90vh; margin-bottom: 80px;" 
+    style="height: 80vh; margin-bottom: 80px;" 
 >
 
 <x-spacer/>

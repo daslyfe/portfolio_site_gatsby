@@ -16,7 +16,7 @@ function Layout(props) {
     <div  >
       <Header />
 
-      <main className="h-full  inset-0 absolute flex-1 w-full max-w-6xl pt-16  px-4 mx-auto md:px-8 md:py-24">
+      <main className="absolute inset-0 flex-1 w-full max-w-6xl pt-16  px-4 mx-auto md:px-8 md:py-24">
 
         {props.children}
         <x-spacer/>

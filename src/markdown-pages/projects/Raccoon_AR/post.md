@@ -25,8 +25,8 @@ This is an AR project done in Lens Studio that I worked on with a team. My job w
 
 <div class="flex justify-center">
 
-<video width="320" controls loop>
-  <source src="/raccoonar.webm" type="video/webm">
+<video style="max-height: 600px;" controls loop>
+  <source src="/raccoonar.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 

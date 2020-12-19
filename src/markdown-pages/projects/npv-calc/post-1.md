@@ -21,9 +21,8 @@ This is a teaching tool to help HBS students understand how net present value, a
 </x-container>
 
 <iframe 
-    src="https://5fdcee35eabd8200a98899d6--hopeful-mestorf-41198f.netlify.app/"
+    src="https://hopeful-mestorf-41198f.netlify.app/"
     scrolling="no"
-    class="absolute left-0 h-full w-full scale-150 p-0" 
-    
+    class="overflow-hidden h-full w-full absolute scaled p-0"  
 >
 
