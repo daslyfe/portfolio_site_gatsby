@@ -15,8 +15,8 @@ export default function Template({
     <Layout  bgType="hex">
       <SEO title={frontmatter.title} />
 
-      <div className="post-content w-full " style={{height:"96%"}} >
-        <div className="w-full h-full " dangerouslySetInnerHTML={{ __html: html }} />
+      <div className="post-content w-full " style={{minHeight:"96vh"}} >
+        <div className="" dangerouslySetInnerHTML={{ __html: html }} />
    
       </div>
 
