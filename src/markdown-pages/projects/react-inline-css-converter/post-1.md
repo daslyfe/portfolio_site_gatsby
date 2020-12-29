@@ -1,10 +1,10 @@
 ---
 slug: "/projects/react-inline-css-converter"
 date: "2020-05-04"
-title: "React CSS Converter"
+title: "CSS Converter"
 image: "./image.png"
 featured: "frontpage"
-description: "granular resynthesizer/visual synth made with React"
+description: "convert css styles into JSX React syntax or vice versa"
 ---
 
 <x-container>  
@@ -16,7 +16,7 @@ This is a realtime converter that you can use to change CSS into JSX style synta
 
 # Features: 
 - syntax highlighting
-- comment conversion //comment -> /*comment*/
+- comment conversion //comment -> /&#42;comment&#42;/
 - rule conversion and syntax conversion 
 -  converted results show in realtime as you are typing/pasting
  
