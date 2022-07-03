@@ -1,13 +1,11 @@
-
-
 function IndexPage() {
+  if (window) {
     const url = new URL(window.location);
-    url.pathname='projects';
-
-window.history.pushState({}, '', url);
-window.location.reload();
-return null;
-
+    url.pathname = "projects";
+    window.history.pushState({}, "", url);
+    window.location.reload();
+  }
+  return null;
 }
 
 export default IndexPage;
