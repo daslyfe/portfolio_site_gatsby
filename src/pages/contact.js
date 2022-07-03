@@ -25,15 +25,16 @@ export const contactContent = (
           alignItems: "center",
         }}
       >
+        <br />
         <img
-          style={{ borderRadius: "50%", padding: 16 }}
+          style={{ borderRadius: "50%" }}
           className="opacity-100 w-1/4 inset-0 "
           src={mephoto}
         ></img>
+        <br />
         <p className="text-center">
           software engineer, experimenter, tinkerer living in Boston Ma{" "}
         </p>
-
         <div style={{ display: "flex", justifyContent: "center" }}>
           <ul>
             <li>React</li>
@@ -45,12 +46,10 @@ export const contactContent = (
             <li>Unity/C#</li>
           </ul>
         </div>
-
         <p className="text-2xl text-center pt-8">
           <FontAwesomeIcon className="mr-4" icon={faEnvelope} />
           JadeRowlandDev@gmail.com
         </p>
-
         <nav className="flex justify-center  pb-8 mx-auto text-3xl ">
           {/* <a
           className="footer-button "
